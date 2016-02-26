@@ -34,11 +34,11 @@
     //blank pour un projet vide 
      ionic start Garagiste blank
     ```
-   ![alt text](https://github.com/abouelaiz/ionic_project/blob/master/images/start.PNG " Logo Title Text 1")
+   ![alt text](https://github.com/abouelaiz/onic_install/blob/master/images/start.PNG " Logo Title Text 1")
    
    la structure de notre projet 
    
-      ![alt text](https://github.com/abouelaiz/ionic_project/blob/master/images/structure.PNG " Logo Title Text 1")
+      ![alt text](https://github.com/abouelaiz/onic_install/blob/master/images/structure.PNG " Logo Title Text 1")
     * Platforms : ce répértoire contiendra le build de nos projet ios et android (APK et XcodeProject).
     * Plugins   : c'est dans ce repertoire que cordova stocke les plugins que nous ajoutons à notre projet.
     * SCSS      : c'est ici où nous allons stocké nos fichiers .Scss.
@@ -54,7 +54,7 @@
     ionic serve --lab
     ```
     
-    ![alt text](https://github.com/abouelaiz/ionic_project/blob/master/images/lab.PNG "Logo Title Text 1")
+    ![alt text](https://github.com/abouelaiz/ionic_install/blob/master/images/lab.PNG "Logo Title Text 1")
      
      sinon pour ajouter un plugin a notre projet 
       ```cmd
